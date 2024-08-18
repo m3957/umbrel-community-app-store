@@ -2,12 +2,15 @@ manifestVersion: 1
 id: bobross-minecraft
 name: Minecraft Server
 tagline: i like minceraft
-icon: https://cdn2.steamgriddb.com/icon/0678c572b0d5597d2d4a6b5bd135754c/32/1024x1024.png
+icon: https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-minecraft/icon.png
 category: Games
 version: "1.0.0"
 port: 25565
 description: >-
+  The Docker container was made by itzg
   https://hub.docker.com/r/itzg/minecraft-server/
+
+  The pictures where made in Canva because I don't know better.
 
 developer: itzg
 website: https://hub.docker.com/u/itzg
@@ -16,9 +19,9 @@ submission: https://github.com/m3957/umbrel-community-app-store
 repo: https://github.com/m3957/umbrel-community-app-store
 support: http://www.republiquedesmangues.fr/
 gallery:
-  - 1.png
-  - 2.png
-  - 3.png
+  - https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-minecraft/1.png
+  - https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-minecraft/2.png
+  - https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-minecraft/3.png
 releaseNotes: >-
   Nothing to see here.
 dependencies: []
