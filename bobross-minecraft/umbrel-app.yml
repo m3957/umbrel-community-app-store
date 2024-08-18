@@ -16,7 +16,9 @@ submission: https://github.com/m3957/umbrel-community-app-store
 repo: https://github.com/m3957/umbrel-community-app-store
 support: http://www.republiquedesmangues.fr/
 gallery:
-  - https://static.planetminecraft.com/files/image/minecraft/mob-skin/2022/683/snow-golem-13235964_iso_l.png
+  - 1.png
+  - 2.png
+  - 3.png
 releaseNotes: >-
   Nothing to see here.
 dependencies: []
