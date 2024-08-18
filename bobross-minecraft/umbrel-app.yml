@@ -1,23 +1,20 @@
 manifestVersion: 1
-id: sparkles-hello-world
-name: Hello World
-tagline: Replace this tagline with your app's tagline
-icon: https://svgur.com/i/mvA.svg
-category: Development
+id: bobross-minecraft
+name: Minecraft Server
+tagline: i like minceraft
+icon: https://cdn2.steamgriddb.com/icon/0678c572b0d5597d2d4a6b5bd135754c/32/1024x1024.png
+category: Games
 version: "1.0.0"
-port: 4000
+port: 25565
 description: >-
-  Add your app's description here.
+  https://hub.docker.com/r/itzg/minecraft-server/
 
-
-  You can also add newlines!
-
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
+developer: itzg
+website: https://hub.docker.com/r/itzg/minecraft-server/
+submitter: me
 submission: https://github.com/getumbrel/umbrel-hello-world-app
 repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+support: http://www.republiquedesmangues.fr/
 gallery:
   - https://i.imgur.com/yyVG0Jb.jpeg
   - https://i.imgur.com/yyVG0Jb.jpeg
