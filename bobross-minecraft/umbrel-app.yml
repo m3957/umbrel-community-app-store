@@ -10,17 +10,15 @@ description: >-
   https://hub.docker.com/r/itzg/minecraft-server/
 
 developer: itzg
-website: https://hub.docker.com/r/itzg/minecraft-server/
+website: https://hub.docker.com/u/itzg
 submitter: me
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
+submission: https://github.com/m3957/umbrel-community-app-store
+repo: https://github.com/m3957/umbrel-community-app-store
 support: http://www.republiquedesmangues.fr/
 gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://static.planetminecraft.com/files/image/minecraft/mob-skin/2022/683/snow-golem-13235964_iso_l.png
 releaseNotes: >-
-  Add what's new in the latest version of your app here.
+  Nothing to see here.
 dependencies: []
 path: ""
 defaultUsername: ""
