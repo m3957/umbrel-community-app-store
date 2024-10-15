@@ -1,0 +1,24 @@
+manifestVersion: 1
+id: bobross-linkwarden
+name: Linkwarden
+tagline: Organize your bookmarks
+icon: https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-linkwarden/icon.png
+category: Stuff
+version: "1.0.0"
+port: 3000
+description: >-
+  The Linkwarden bookmarks manager
+
+developer: linkwarden
+website: https://linkwarden.app/
+submitter: me
+submission: https://github.com/m3957/umbrel-community-app-store
+repo: https://github.com/m3957/umbrel-community-app-store
+support: http://www.republiquedesmangues.fr/
+gallery:
+releaseNotes: >-
+  Nothing to see here.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
