@@ -2,7 +2,10 @@ version: "3.5"
 services:
   postgres:
     image: postgres:16-alpine
-    env_file: .env
+    environment:
+      NEXTAUTH_URL: http://localhost:3000/api/v1/auth
+      NEXTAUTH_SECRET: wz3pwfqYStS@8GaTEoOU
+      POSTGRES_PASSWORD: W@z122AsjHVdrW0tk^8A
     restart: always
     volumes:
       - ./pgdata:/var/lib/postgresql/data
