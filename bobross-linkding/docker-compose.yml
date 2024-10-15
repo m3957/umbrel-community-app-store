@@ -3,11 +3,9 @@ services:
     container_name: "${LD_CONTAINER_NAME:-linkding}"
     image: sissbruecker/linkding:latest
     ports:
-      - "9090:9090"
+      - "${LD_HOST_PORT:-9090}:9090"
     volumes:
       - "${LD_HOST_DATA_DIR:-./data}:/etc/linkding/data"
     env_file:
       - .env
     restart: unless-stopped
-volumes:
-  linkding: {}
