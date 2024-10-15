@@ -15,7 +15,7 @@ submitter: me
 submission: https://github.com/m3957/umbrel-community-app-store
 repo: https://github.com/m3957/umbrel-community-app-store
 support: http://www.republiquedesmangues.fr/
-gallery:
+#gallery:
 releaseNotes: >-
   Nothing to see here.
 dependencies: []
