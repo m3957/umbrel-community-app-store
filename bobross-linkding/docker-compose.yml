@@ -12,6 +12,10 @@ services:
       - LD_DISABLE_BACKGROUND_TASKS=False
       - LD_DISABLE_URL_VALIDATION=False
     restart: unless-stopped
+    networks:
+      default:
+        name: my-network
+        external: true
     deploy:
       resources:
         limits:
