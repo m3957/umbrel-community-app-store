@@ -15,7 +15,8 @@ submitter: me
 submission: https://github.com/m3957/umbrel-community-app-store
 repo: https://github.com/m3957/umbrel-community-app-store
 support: http://www.republiquedesmangues.fr/
-#gallery:
+gallery:
+  - https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-linkwarden/1.png
 releaseNotes: >-
   Nothing to see here.
 dependencies: []
