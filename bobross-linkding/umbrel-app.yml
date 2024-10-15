@@ -1,0 +1,24 @@
+manifestVersion: 1
+id: bobross-linkding
+name: Linkding
+tagline: Organize your bookmarks
+#icon: https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-minecraft/icon.png
+category: Bookmarks
+version: "1.0.0"
+port: 9090
+description: >-
+  Organize your bookmarks.
+
+developer: sissbruecker
+website: https://github.com/sissbruecker/linkding
+submitter: me
+submission: https://github.com/m3957/umbrel-community-app-store
+repo: https://github.com/m3957/umbrel-community-app-store
+support: http://www.republiquedesmangues.fr/
+#gallery:
+releaseNotes: >-
+  Nothing to see here.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
