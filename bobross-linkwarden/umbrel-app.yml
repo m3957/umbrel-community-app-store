@@ -2,10 +2,10 @@ manifestVersion: 1
 id: bobross-linkwarden
 name: Linkwarden
 tagline: Organize your bookmarks
-icon: ttps://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-linkwarden/icon.png
+icon: 
 category: Bookmarks
 version: "3.5.0"
-port: 3001
+port: 3000
 description: >-
   Organize your bookmarks.
 
@@ -16,9 +16,6 @@ submission: https://github.com/getumbrel/umbrel-hello-world-app
 repo: https://github.com/getumbrel/umbrel-hello-world-app
 support: https://github.com/getumbrel/umbrel-hello-world-app/issues
 gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
 releaseNotes: >-
   Add what's new in the latest version of your app here.
 dependencies: []
