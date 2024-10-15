@@ -4,17 +4,20 @@ services:
     env_file: .env
     restart: always
     volumes:
-      - ./pgdata:/var/lib/postgresql/data
+      - pgdata:/var/lib/postgresql/data
+
   linkwarden:
+    image: ghcr.io/linkwarden/linkwarden:latest
     env_file: .env
     environment:
       - DATABASE_URL=postgresql://postgres:${POSTGRES_PASSWORD}@postgres:5432/postgres
+      - NEXTAUTH_SECRET=${NEXTAUTH_SECRET}
+      - NEXTAUTH_URL=http://localhost:3000
     restart: always
-    # build: . # uncomment this line to build from source
-    image: ghcr.io/linkwarden/linkwarden:latest # comment this line to build from source
     ports:
-      - 4069:3000
-    volumes:
-      - ./data:/data/data
+      - "3000:3000"
     depends_on:
       - postgres
+
+volumes:
+  pgdata:
