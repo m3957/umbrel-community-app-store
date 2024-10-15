@@ -1,4 +1,4 @@
-manifestVersion: 1
+manifestVersion: 3.5
 id: bobross-linkwarden
 name: Linkwarden
 tagline: Organize your bookmarks
@@ -9,13 +9,14 @@ port: 3000
 description: >-
   Organize your bookmarks.
 
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+developer: Linkwarden
+website: https://linkwarden.app/
+submitter: me
+submission: https://github.com/m3957/umbrel-community-app-store
+repo: https://github.com/m3957/umbrel-community-app-store
+support: http://www.republiquedesmangues.fr/
 gallery:
+  - https://i.imgur.com/yyVG0Jb.jpeg
 releaseNotes: >-
   Add what's new in the latest version of your app here.
 dependencies: []
