@@ -10,8 +10,8 @@ services:
       - "./data:/etc/linkding/data"
     environment:
       LD_CONTEXT_PATH: ""
-      LD_SUPERUSER_NAME: ""
-      LD_SUPERUSER_PASSWORD: ""
+      LD_SUPERUSER_NAME: "umbrel"
+      LD_SUPERUSER_PASSWORD: "zykHVGYi8x6SC^#&YWQb"
       LD_DISABLE_BACKGROUND_TASKS: "False"
       LD_DISABLE_URL_VALIDATION: "False"
       LD_ENABLE_AUTH_PROXY: "False"
