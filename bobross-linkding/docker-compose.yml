@@ -1,0 +1,34 @@
+version: '3.5'
+
+services:
+  linkding:
+    container_name: linkding
+    image: sissbruecker/linkding:latest
+    ports:
+      - "9090:9090"
+    volumes:
+      - "./data:/etc/linkding/data"
+    environment:
+      LD_CONTEXT_PATH: ""
+      LD_SUPERUSER_NAME: ""
+      LD_SUPERUSER_PASSWORD: ""
+      LD_DISABLE_BACKGROUND_TASKS: "False"
+      LD_DISABLE_URL_VALIDATION: "False"
+      LD_ENABLE_AUTH_PROXY: "False"
+      LD_AUTH_PROXY_USERNAME_HEADER: ""
+      LD_AUTH_PROXY_LOGOUT_URL: ""
+      LD_CSRF_TRUSTED_ORIGINS: ""
+      LD_DB_ENGINE: ""
+      LD_DB_DATABASE: ""
+      LD_DB_USER: ""
+      LD_DB_PASSWORD: ""
+      LD_DB_HOST: ""
+      LD_DB_PORT: ""
+      LD_DB_OPTIONS: ""
+    restart: unless-stopped
+    networks:
+      - linkding-network
+
+networks:
+  linkding-network:
+    driver: bridge

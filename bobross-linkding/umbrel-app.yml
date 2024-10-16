@@ -1,20 +1,16 @@
-manifestVersion: 3.5
-id: bobross-linkwarden
-name: Linkwarden
+manifestVersion: 1.36.0
+id: bobross-linkding
+name: Linkding
 tagline: Organize your bookmarks
 icon: 
 category: Bookmarks
-version: "3.5.0"
-port: 3000
+version: "1.36.0"
+port: 9090
 description: >-
   Organize your bookmarks.
-  ---
-  Please do not import all your bookmarks directly into the app
-  because it will nuke your Pi, like mine,  trying to have previews
-  loaded for all my 850 websites (which requires Chromium).
 
-developer: Linkwarden
-website: https://linkwarden.app/
+developer: sissbruecker
+website: https://github.com/sissbruecker/linkding/
 submitter: me
 submission: https://github.com/m3957/umbrel-community-app-store
 repo: https://github.com/m3957/umbrel-community-app-store
