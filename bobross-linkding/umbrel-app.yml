@@ -2,7 +2,7 @@ manifestVersion: 1.36.0
 id: bobross-linkding
 name: Linkding
 tagline: Organize your bookmarks
-icon: https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-minecraft/icon.png
+icon: https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-linkding/icon.png
 category: Bookmarks
 version: "1.36.0"
 port: 9090
