@@ -2,7 +2,7 @@ manifestVersion: 1.36.0
 id: bobross-linkding
 name: Linkding
 tagline: Organize your bookmarks
-icon: 
+icon: https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-minecraft/icon.png
 category: Bookmarks
 version: "1.36.0"
 port: 9090
@@ -16,7 +16,9 @@ submission: https://github.com/m3957/umbrel-community-app-store
 repo: https://github.com/m3957/umbrel-community-app-store
 support: http://www.republiquedesmangues.fr/
 gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-linkding/1.png
+  - https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-linkding/2.png
+  - https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-linkding/3.png
 releaseNotes: >-
   Add what's new in the latest version of your app here.
 dependencies: []
