@@ -7,6 +7,7 @@ services:
       - "25565:25565"
     volumes:
       - ./data:/data
+      - ${UMBREL_ROOT}/data/storage/:/data
     environment:
       TYPE: CUSTOM
       CREATE_CONSOLE_IN_PIPE: TRUE
