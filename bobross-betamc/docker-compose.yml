@@ -8,6 +8,7 @@ services:
     volumes:
       - ./data:/data
     environment:
+      MAX_MEMORY: 1G
       VERSION: "b1.7.3"
       EULA: "TRUE"
     restart: unless-stopped
