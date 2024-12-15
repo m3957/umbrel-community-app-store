@@ -1,27 +1,27 @@
-manifestVersion: 1.0.0
+manifestVersion: 3
 id: bobross-crafty
 name: Crafty Controller
-tagline: Run your Minecraft server
-icon: https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-linkding/icon.png
+tagline: i like minceraft
+icon: https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-betamc/icon.png
 category: Games
-version: "4.4.4"
-port: 8111
+version: "1.0.0"
+port: 8000
 description: >-
-  Docker Compose from CasaOS.
+  https://gitlab.com/crafty-controller/crafty-web/-/blob/master/docker-compose.yml
 
-developer: sissbruecker
-website: https://github.com/sissbruecker/linkding/
+developer: itzg
+website: https://gitlab.com/crafty-controller/crafty-web/
 submitter: me
 submission: https://github.com/m3957/umbrel-community-app-store
 repo: https://github.com/m3957/umbrel-community-app-store
 support: http://www.republiquedesmangues.fr/
 gallery:
-  - https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-linkding/1.png
-  - https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-linkding/2.png
-  - https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-linkding/3.png
+  - https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-minecraft/1.png
+  - https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-minecraft/2.png
+  - https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-minecraft/3.png
 releaseNotes: >-
-  Add what's new in the latest version of your app here.
+  Nothing to see here.
 dependencies: []
 path: ""
-defaultUsername:
-defaultPassword:
+defaultUsername: ""
+defaultPassword: ""
