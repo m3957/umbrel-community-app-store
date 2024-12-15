@@ -12,6 +12,6 @@ services:
 
       MAX_MEMORY: 1G
       VERSION: b1.7.3
-      CUSTOM_VERSION: https://files.betacraft.uk/server-archive/beta/b1.7.3.jar
+      CUSTOM_SERVER: "https://files.betacraft.uk/server-archive/beta/b1.7.3.jar"
       EULA: "TRUE"
     restart: unless-stopped
