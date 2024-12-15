@@ -1,0 +1,27 @@
+manifestVersion: 1.36.0
+id: bobross-crafty
+name: Crafty Controller
+tagline: Run your Minecraft server
+icon: https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-linkding/icon.png
+category: Games
+version: "4.4.4"
+port: 8111
+description: >-
+  Docker Compose from CasaOS.
+
+developer: sissbruecker
+website: https://github.com/sissbruecker/linkding/
+submitter: me
+submission: https://github.com/m3957/umbrel-community-app-store
+repo: https://github.com/m3957/umbrel-community-app-store
+support: http://www.republiquedesmangues.fr/
+gallery:
+  - https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-linkding/1.png
+  - https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-linkding/2.png
+  - https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-linkding/3.png
+releaseNotes: >-
+  Add what's new in the latest version of your app here.
+dependencies: []
+path: ""
+defaultUsername:
+defaultPassword:
