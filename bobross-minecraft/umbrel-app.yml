@@ -8,8 +8,7 @@ version: "1.0.0"
 port: 25565
 description: >-
   The Docker container was made by itzg: https://hub.docker.com/r/itzg/minecraft-server/
-  The pictures where made in Canva because I don't know better.
-  You will need to enter the console of the container to setup the whitelist.
+  A Minecraft 1.21.1 Paper server. By default, it will be allocated 2G of RAM.
 
 developer: itzg
 website: https://hub.docker.com/u/itzg
