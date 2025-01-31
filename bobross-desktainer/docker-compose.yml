@@ -1,0 +1,15 @@
+services:
+  main:
+    image: docker.io/dmotte/desktainer:latest
+    build: build
+    restart: always
+    hostname: desktainer
+    ports:
+      - 5901:5901
+      - 6901:6901
+    volumes:
+      - ${UMBREL_ROOT}/home/Documents/Desktainer:/data
+    environment:
+      MAINUSER_NOPASSWORD: "true"
+      VNC_PASS: 4kdUM34U8xh1Ml9O6835
+networks: {}

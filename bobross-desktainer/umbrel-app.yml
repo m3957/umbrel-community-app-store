@@ -1,0 +1,28 @@
+manifestVersion: 1
+id: bobross-desktainer
+name: Desktainer
+tagline: Remote dekstop in a container
+icon: https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-desktainer/icon.png
+category: Remote desktop
+version: "1.0.0"
+port: 6901
+description: >-
+  The Docker container was made by dmotte: https://github.com/dmotte/desktainer
+  A remote desktop Docker container.
+  Not finished at all - images missing.
+developer: dmotte
+website: https://github.com/dmotte/desktainer
+submitter: me
+submission: https://github.com/m3957/umbrel-community-app-store
+repo: https://github.com/m3957/umbrel-community-app-store
+support: http://www.republiquedesmangues.fr/
+gallery:
+  - https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-kasm/1.png
+  - https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-kasm/2.png
+  - https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-kasm/3.png
+releaseNotes: >-
+  Nothing to see here.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
