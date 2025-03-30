@@ -1,1 +1,0 @@
-An Umbrel app store with Minecraft (no GUI), Linkding and Linkwarden in it. Made for myself.

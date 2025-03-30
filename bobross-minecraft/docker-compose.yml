@@ -3,22 +3,22 @@ services:
     image: itzg/minecraft-server
     container_name: mc
     environment:
-      VERSION: 1.21.1
+      VERSION: 1.21.5
       EULA: "true"
-      ENABLE_AUTOPAUSE: "true"
+      ENABLE_AUTOPAUSE: "false"
       MAX_PLAYERS: 5
       CREATE_CONSOLE_IN_PIPE: "true"
       SERVER_NAME: "Umbrel"
       SNOOPER_ENABLED: "false"
       DIFFICULTY: "easy"
-      TYPE: PAPER
-      VIEW_DISTANCE: 12
-      SIMULATION_DISTANCE: "5"
+      TYPE: VANILLA
+      VIEW_DISTANCE: 20
+      SIMULATION_DISTANCE: "8"
       MEMORY: 2G
     ports:
       - "25565:25565"
     volumes:
-      - ${UMBREL_ROOT}/data/storage/minecraft/:/data
+      - ${APP_DATA_DIR}/data:/data
     restart: unless-stopped
 volumes:
   mc: {}
