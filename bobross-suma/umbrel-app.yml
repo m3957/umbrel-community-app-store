@@ -1,0 +1,25 @@
+manifestVersion: 1
+id: bobross-suma
+name: Suma
+tagline: stuff
+icon: https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-minecraft/icon.png
+category: AI
+version: "1.0"
+port: 3000
+description: >-
+  Simple Minecraft server docker container made by itzg. No web interface available. Connect to the server by using umbrel.local:25565 in Minecraft.
+developer: itzg
+website: https://hub.docker.com/u/itzg
+submitter: m3957
+submission: https://github.com/m3957/umbrel-community-app-store
+repo: https://hub.docker.com/r/itzg/minecraft-server
+support: https://github.com/itzg/docker-minecraft-server/issues
+gallery:
+  - https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-minecraft/assets/1.png
+  - https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-minecraft/assets/2.png
+releaseNotes: >-
+  Nothing to see here.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
