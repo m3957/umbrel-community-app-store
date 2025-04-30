@@ -4,7 +4,7 @@ services:
     image: glanceapp/glance
     restart: unless-stopped
     volumes:
-      - ${UMBREL_ROOT}/data/storage/glance/:/app/config
+      - ${UMBREL_ROOT}/home/Documents/Glance/:/app/config
     ports:
-      - 8080:8080
+      - 8081:8080
 networks: {}

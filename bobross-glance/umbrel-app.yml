@@ -5,7 +5,7 @@ tagline: stuff
 icon: https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-minecraft/icon.png
 category: Dashboard
 version: "1.0"
-port: 8080
+port: 8081
 description: >-
   A self-hosted dashboard that puts all your feeds in one place.
 developer: Glance
