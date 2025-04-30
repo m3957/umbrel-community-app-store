@@ -1,0 +1,25 @@
+manifestVersion: 1
+id: bobross-glance
+name: Glance
+tagline: stuff
+icon: https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-minecraft/icon.png
+category: Dashboard
+version: "1.0"
+port: 8080
+description: >-
+  A self-hosted dashboard that puts all your feeds in one place.
+developer: Glance
+website: https://github.com/glanceapp/glance
+submitter: m3957
+submission: https://github.com/m3957/umbrel-community-app-store
+repo: https://github.com/glanceapp/glance
+support: https://github.com/glanceapp/glance/issues
+gallery:
+  - https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-minecraft/assets/1.png
+  - https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-minecraft/assets/2.png
+releaseNotes: >-
+  Nothing to see here.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""

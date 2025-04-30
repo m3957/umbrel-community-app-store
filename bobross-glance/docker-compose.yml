@@ -1,0 +1,10 @@
+services:
+  glance:
+    container_name: glance
+    image: glanceapp/glance
+    restart: unless-stopped
+    volumes:
+      - ${UMBREL_ROOT}/data/storage/glance/:/app/config
+    ports:
+      - 8080:8080
+networks: {}
