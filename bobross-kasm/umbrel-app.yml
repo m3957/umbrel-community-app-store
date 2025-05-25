@@ -3,7 +3,7 @@ id: bobross-kasm
 name: Kasm Workspaces
 tagline: The Workspace Streaming Platform
 icon: https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-kasm/icon.png
-category: Remote desktop
+category: Files & Productivity
 version: "1.0.0"
 port: 3000
 description: >-

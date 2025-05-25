@@ -3,7 +3,7 @@ id: bobross-desktainer
 name: Desktainer
 tagline: Remote dekstop in a container
 icon: https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-desktainer/icon.png
-category: Remote desktop
+category: Files & Productivity
 version: "1.0.0"
 port: 6901
 description: >-

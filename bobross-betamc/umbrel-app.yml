@@ -3,7 +3,7 @@ id: bobross-betamc
 name: Beta 1.7.3
 tagline: i like minceraft
 icon: https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-betamc/icon.png
-category: Games
+category: Media
 version: "1.0.0"
 port: 25565
 description: >-

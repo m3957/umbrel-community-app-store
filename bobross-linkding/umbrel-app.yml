@@ -3,7 +3,7 @@ id: bobross-linkding
 name: Linkding
 tagline: Organize your bookmarks
 icon: https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-linkding/icon.png
-category: Bookmarks
+category: Files & Productivity
 version: "1.36.0"
 port: 9090
 description: >-
