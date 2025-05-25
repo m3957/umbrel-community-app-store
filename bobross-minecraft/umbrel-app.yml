@@ -3,7 +3,7 @@ id: bobross-minecraft
 name: Minecraft Server
 tagline: i like minceraft
 icon: https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-minecraft/icon.png
-category: Games
+category: Media
 version: "1.21.5"
 port: 25565
 description: >-
