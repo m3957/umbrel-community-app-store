@@ -15,8 +15,7 @@ submission: https://github.com/m3957/umbrel-community-app-store
 repo: https://github.com/glanceapp/glance
 support: https://github.com/glanceapp/glance/issues
 gallery:
-  - https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-minecraft/assets/1.png
-  - https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-minecraft/assets/2.png
+  - https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-glance/assets/1.png
 releaseNotes: >-
   Nothing to see here.
 dependencies: []
