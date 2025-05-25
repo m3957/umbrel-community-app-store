@@ -2,7 +2,7 @@ manifestVersion: 1
 id: bobross-glance
 name: Glance
 tagline: A self-hosted dashboard that puts all your feeds in one place
-icon: https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-minecraft/icon.png
+icon: https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-glance/icon.png
 category: Files & Productivity
 version: "0.8.3"
 port: 9091
