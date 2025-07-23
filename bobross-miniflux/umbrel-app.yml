@@ -1,0 +1,24 @@
+manifestVersion: 1
+id: bobross-miniflux
+name: Miniflux
+tagline: An RSS reader
+icon: https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-glance/icon.png
+category: Social
+version: "1.0"
+port: 8088
+description: >-
+  [in development]
+developer: Miniflux
+website: https://miniflux.app
+submitter: m3957
+submission: https://github.com/m3957/umbrel-community-app-store
+repo: https://github.com/miniflux/v2
+support: https://github.com/miniflux/v2/issues
+gallery:
+  - https://raw.githubusercontent.com/m3957/umbrel-community-app-store/master/bobross-miniflux/assets/1.png
+releaseNotes: >-
+  Nothing to see here.
+dependencies: []
+path: ""
+defaultUsername: "umbrel"
+defaultPassword: "JRZWkbz@Pkhcb5DSpOC&ePsQjZhzBp%q"
